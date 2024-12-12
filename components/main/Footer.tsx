@@ -62,9 +62,8 @@ const Footer = () => {
                     </p>
                 </div>
             </div>
-
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; MatinDev 2024 Inc. All rights reserved
+                &copy; MatinDev 2024 Inc. All rights reserved If you copy then fudge you
             </div>
         </div>
     </div>
