@@ -16,7 +16,7 @@ const Navbar = () => {
             width={50}
             height={50}
             
-            className=" mr-4 cursor-pointer hover:animate-slowspin"
+            className=" mr-4 cursor-pointer hover:animate-slowspin rounded-full"
           />
 
           <span className="font-bold ml-[1px] hidden md:block text-gray-300">
