@@ -2,6 +2,7 @@ import Encryption from "@/components/main/Encryption";
 import Hero from "@/components/main/Hero";
 import Projects from "@/components/main/Projects";
 import Skills from "@/components/main/Skills";
+import Stats from '@/components/sub/Stats'; 
 import Image from "next/image";
 
 export default function Home() {
